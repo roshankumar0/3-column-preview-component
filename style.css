@@ -7,7 +7,7 @@
     margin: 0; padding: 0;
     box-sizing: border-box;
 }
-body, button{
+body{
     font-family: 'Big Shoulders Display', cursive; 
 }
 p{
@@ -78,7 +78,5 @@ h2{
     .very-dark-cyan{
         border-radius: 0 10px 10px 0;
     }
-    .card{
-        height: 500px;
-    }
+
 }
